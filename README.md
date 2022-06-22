@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on [Clevier](https://github.com/bayucucanh/SecondHand_Group1)
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **App development process. Build, test, and deploy beautiful mobile**
 
 - 📫 How to reach me **bayucucan36@gmail.com**
 
-- ⚡ Fun fact **Morning Person**
+- ⚡ Fun fact **Morning Person, Coffee Addicted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
