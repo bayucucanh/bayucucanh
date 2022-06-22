@@ -2,6 +2,9 @@
 <h3 align="center">A passionate frontend engineer from Bandung</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+![Profile Views](https://komarev.com/ghpvc/?username=bayucucanh&label=Profile%20views&color=0e75b6&style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-1%2C260%20hrs%204%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20%20I've%20Written-1%20Million%20lines%20of%20code-blue)
 
 - 🔭 I’m currently working on [Second Hand](https://github.com/bayucucanh/SecondHand_Group1)
 
@@ -14,10 +17,6 @@
 - 📫 How to reach me **bayucucan36@gmail.com**
 
 - ⚡ Fun fact **Morning Person, Coffee Addicted**
-
-![Profile Views](https://komarev.com/ghpvc/?username=bayucucanh&label=Profile%20views&color=0e75b6&style=flat)
-![Code Time](https://img.shields.io/badge/Code%20Time-1%2C260%20hrs%204%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20%20I've%20Written-1%20Million%20lines%20of%20code-blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
