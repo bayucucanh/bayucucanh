@@ -4,7 +4,7 @@
 
 ## About me
 
- <img align="right" alt="coding" width="250" src="https://creator-hub-prod.s3.us-east-2.amazonaws.com/dark_warlocks_pfp_1655018159086.gif">
+ <img align="right" alt="coding" width="250" src="https://c.tenor.com/Yssl2_AjV-QAAAAM/lofi-art.gif">
 
 - 🔭 I’m currently working on [Second Hand](https://github.com/bayucucanh/SecondHand_Group1)
 
