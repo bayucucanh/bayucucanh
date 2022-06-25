@@ -4,7 +4,7 @@
 
 ## About me
 
- <img align="right" alt="coding" width="250" src="https://c.tenor.com/Yssl2_AjV-QAAAAM/lofi-art.gif">
+ <img align="right" alt="coding" width="260" src="https://c.tenor.com/Yssl2_AjV-QAAAAM/lofi-art.gif">
 
 - 🔭 I’m currently working on [Second Hand](https://github.com/bayucucanh/SecondHand_Group1)
 
