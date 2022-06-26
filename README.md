@@ -4,7 +4,7 @@
 
 ## About me
 
- <img align="right" alt="coding" width="260" src="https://c.tenor.com/Yssl2_AjV-QAAAAM/lofi-art.gif">
+ <img align="right" alt="coding" width="260" src="https://cdna.artstation.com/p/assets/images/images/035/337/544/original/michelle-hesek-lofiuse.gif?1614708603">
 
 - 🔭 I’m currently working on [Second Hand](https://github.com/bayucucanh/SecondHand_Group1)
 
