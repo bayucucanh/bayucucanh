@@ -4,7 +4,7 @@
 
 ## About me
 
- <img align="right" alt="coding" width="260" src="https://cdna.artstation.com/p/assets/images/images/035/337/544/original/michelle-hesek-lofiuse.gif?1614708603">
+ <img align="right" alt="coding" width="260" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif">
 
 - 🔭 I’m currently working on [Second Hand](https://github.com/bayucucanh/SecondHand_Group1)
 
