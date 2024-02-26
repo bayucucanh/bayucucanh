@@ -6,11 +6,11 @@
 
  <img align="right" alt="coding" width="260" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif">
 
-- 🔭 I’m currently working on [Second Hand](https://github.com/bayucucanh/SecondHand_Group1)
+- 🔭 I’m currently working on [Gamebit](https://github.com/bayucucanh/SecondHand_Group1)
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Clevier](https://github.com/bayucucanh/SecondHand_Group1)
+- 👯 I’m looking to collaborate on [Gamebit](https://github.com/bayucucanh/SecondHand_Group1)
 
 - 💬 Ask me about **App development process. Build, test, and deploy beautiful mobile**
 
